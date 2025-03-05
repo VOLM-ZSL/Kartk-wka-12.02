@@ -22,4 +22,3 @@ class Person {
 const person = new Person("Alice", 25);
 person.greet();
 ```
-
