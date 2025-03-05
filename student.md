@@ -1,8 +1,8 @@
 # 24
 
 ## Moje ulubione technologie:
-- Python
-- JavaScript
-- C#
+- Python - prosty 
+- JavaScript - fajny 
+- C# - łatwy 
 
-**Zdanie pogrubione**
+**Zdanie pogrubione, cz.2**
