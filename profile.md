@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. **Omów wybrane techniki określania priorytetów w projektach IT -- dla proponowanych funkcjonalności, wymagań użytkowników itp.**
 	 - **MoSCoW (Must, Should, Could, Won't:** Kategoryzuje wymagania na must-have, should-have, could-have i won't-have dla bieżącej wydania. 
 	 - **RICE Score**=$$\frac{Reach*Impact*Confidence}{Effort}$$
@@ -25,3 +26,10 @@
 		- W – ważność danej funkcji dla użytkownika 
 		- C – częstość korzystania z danej funkcji 
 		- Skala 1-3 lub mała-średnia-duża
+=======
+# 16 18
+## PYTHON (tak naprawde nei)
+
+```python
+print("Hello, World!")
+>>>>>>> d9036f5 (ZADANIE-2: Dodaj plik profile.md)
